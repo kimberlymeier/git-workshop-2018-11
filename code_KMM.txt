@@ -1,1 +1,2 @@
 Hi, this is Kim's file.
+I had a great new idea so I created a new branch, it's called feature_branch.
